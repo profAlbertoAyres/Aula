@@ -106,7 +106,7 @@ body {
     margin-top: 20px;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
 
     .principal{
         width: 100%;
