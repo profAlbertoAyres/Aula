@@ -1,0 +1,27 @@
+.listaSemMarcador{
+    list-style: square;
+}
+
+.listaAlf{
+    list-style: lower-alpha;
+}
+
+table{
+    /* border: solid 1px black; */
+    margin: 0px;
+}
+
+tr{
+    margin: 0px;
+}
+
+td{
+    padding: 10px;
+    border: solid 1px black;
+    
+}
+
+.prinicpal{
+    width: 1028px;
+    margin: 0px auto;
+}
