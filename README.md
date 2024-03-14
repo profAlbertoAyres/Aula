@@ -1,14 +1,10 @@
-# Projeto Jogos Eletronicos
+# Projeto Jogos Internos do <i>Campus</i> Cacoal
 
-## Integrantes 
+> Status do Projeto: Em desenvolvimento pelos alunos do 3°A
 
-* Alberto Ayres Benicio 
+### Instalar via Gerenciador de Pacote
 
-> Páginas Obrigatórias
-
-* Home
-* Quem somos
-* Instrumentos 
-* Gêneros Musicais 
-* Contato
-* Localização
+```
+npm install bootstrap@5.3.1.alpha1
+```
+* Alberto 
